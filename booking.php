@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tidal Lodge - БРОНИРОВАНИЕ</title>
+    <title>Hotel Booking Online - БРОНИРОВАНИЕ</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
     
@@ -21,7 +21,7 @@
     
     <nav class="navbar navbar-expand-lg navbar-light bg-white px-lg-3 py-lg-2 shadow-sm sticky-top">
         <div class="container-fluid px-lg-4 mt-4">
-        <a class="navbar-brand me-5 fw-bold fs-3 h-font" href="index.php">Tidal Lodge<br><span class="h-font fw-bold fs-5">Велигама</span></a>        
+        <a class="navbar-brand me-5 fw-bold fs-3 h-font" href="index.php">Hotel Booking Online<br><span class="h-font fw-bold fs-5">Сервис онлайн бронирования отелей</span></a>        
             <button class="navbar-toggler shadow-none" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -43,7 +43,7 @@
     <div class="my-5 px-4">
         <h2 class="fw-bold h-font text-center">ЗАБРОНИРОВАТЬ СЕЙЧАС</h2>
         <div class="h-line bg-dark"></div>
-        <p class="text-center mt-4">Добро пожаловать в Tidal Lodge - Велигама, где комфорт встречается с удобством. Мы предлагаем исключительный отдых, будь то для бизнеса или отдыха.</p>
+        <p class="text-center mt-4">Добро пожаловать в Hotel Booking Online — ваш надежный сервис онлайн бронирования отелей, где комфорт сочетается с удобством. Мы предоставляем идеальные условия для вашего отдыха или деловой поездки.</p>
     </div>  
 
     <!-- Форма бронирования -->
@@ -98,8 +98,8 @@
                         <option value="Guest Room - Ocean View">Гостевая комната с видом на океан</option>
                         <option value="Guest Room - Garden View">Гостевая комната с видом на сад</option>
                         <option value="Guest Room - Superior Ocean View">Гостевая комната с улучшенным видом на океан</option>
-                        <option value="Suite - Garden View">Сuite с видом на сад</option>
-                        <option value="Suite - Superior Ocean View">Сuite с улучшенным видом на океан</option>
+                        <option value="Suite - Garden View">Вид на сад</option>
+                        <option value="Suite - Superior Ocean View">Вид на океан</option>
                         <option value="Presidential Suite">Президентский люкс</option>
                     </select>
                 </div>

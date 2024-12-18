@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tidal Lodge - НОМЕРА</title>
+    <title>Hotel Booking Online - НОМЕРА</title>
    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
@@ -56,8 +56,8 @@
                         <option value="Garden View">Вид на сад</option>
                         <option value="Ocean View">Вид на океан</option>
                         <option value="Superior Ocean View">Превосходный вид на океан</option>
-                        <option value="1 King Bed">1 кровать King-size</option>
-                        <option value="2 Queen Beds">2 кровати Queen-size</option>
+                        <option value="1 King Bed">1 большая кровать</option>
+                        <option value="2 Queen Beds">2 маленькие кровати</option>
                         <option value="Marble Bathroom">Мраморная ванная</option>
                         <option value="Separate Bathtub and Shower">Отдельная ванна и душ</option>
                         <option value="Connecting Rooms">Соединенные номера</option>
@@ -88,10 +88,10 @@
                     <div class="col-md-7">
                         <div class="card-body">
                             <h5 class="card-title">Гостевой номер</h5>
-                            <p class="card-text">Особенности: 1 кровать King-size | Мраморная ванная</p>
+                            <p class="card-text">Особенности: 1 большая кровать | Мраморная ванная</p>
                             <p class="card-text">Удобства: Высокоскоростной Wi-Fi | Электрическая розетка | Кофеварка/чайник | Мини-бар</p>
                             <p class="card-text">Взрослые: 2 | Дети: 1</p>
-                            <h6 class="mb-3">$225 за ночь</h6>
+                            <h6 class="mb-3">10225р за ночь</h6>
                             <a href="booking.php" class="btn btn-sm w-10 text-white custom-bg shadow-none mb-3" style="background-color: #4ee6bc;">Забронировать</a>
                         </div>
                     </div>
@@ -106,10 +106,10 @@
                     <div class="col-md-7">
                         <div class="card-body">
                             <h5 class="card-title">Гостевой номер - Вид на сад</h5>
-                            <p class="card-text">Особенности: Вид на сад | 2 кровати Queen-size | Мраморная ванная</p>
+                            <p class="card-text">Особенности: Вид на сад | 2 маленькие кровати | Мраморная ванная</p>
                             <p class="card-text">Удобства: Высокоскоростной Wi-Fi | Электрическая розетка | Кофеварка/чайник | Мини-бар</p>
                             <p class="card-text">Взрослые: 2 | Дети: 1</p>
-                            <h6 class="mb-3">$275 за ночь</h6>
+                            <h6 class="mb-3">10275р за ночь</h6>
                             <a href="booking.php" class="btn btn-sm w-10 text-white custom-bg shadow-none mb-3" style="background-color: #4ee6bc;">Забронировать</a>
                         </div>
                     </div>
@@ -124,10 +124,10 @@
                     <div class="col-md-7">
                         <div class="card-body">
                             <h5 class="card-title">Гостевой номер - Вид на океан</h5>
-                            <p class="card-text">Особенности: 1 кровать King-size | Мраморная ванная</p>
+                            <p class="card-text">Особенности: 1 большая кровать | Мраморная ванная</p>
                             <p class="card-text">Удобства: Высокоскоростной Wi-Fi | Электрическая розетка | Кофеварка/чайник | Мини-бар</p>
                             <p class="card-text">Взрослые: 2 | Дети: 2</p>
-                            <h6 class="mb-3">$345 за ночь</h6>
+                            <h6 class="mb-3">15345р за ночь</h6>
                             <a href="booking.php" class="btn btn-sm w-10 text-white custom-bg shadow-none mb-3" style="background-color: #4ee6bc;">Забронировать</a>
                         </div>
                     </div>
@@ -143,10 +143,10 @@
                     <div class="col-md-7">
                         <div class="card-body">
                             <h5 class="card-title">Гостевой номер - Превосходный вид на океан</h5>
-                            <p class="card-text">Особенности: 1 кровать King-size | Мраморная ванная | Соединенные номера</p>
+                            <p class="card-text">Особенности: 1 большая кровать | Мраморная ванная | Соединенные номера</p>
                             <p class="card-text">Удобства: Высокоскоростной Wi-Fi | Электрическая розетка | Кофеварка/чайник | Мини-бар</p>
                             <p class="card-text">Взрослые: 2 | Дети: 1</p>
-                            <h6 class="mb-3">$399 за ночь</h6>
+                            <h6 class="mb-3">10399р за ночь</h6>
                             <a href="booking.php" class="btn btn-sm w-10 text-white custom-bg shadow-none mb-3" style="background-color: #4ee6bc;">Забронировать</a>
                         </div>
                     </div>
@@ -192,5 +192,7 @@
         });
     }
 </script>
+<!-- Footer -->
+<?php require('footer.php'); ?>
 </body>
 </html>

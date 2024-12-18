@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tidal Lodge - ГАЛЕРЕЯ</title>
+    <title>Hotel Booking Online - ГАЛЕРЕЯ</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Merienda:wght@400;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
     <?php require('links.php');?>
@@ -36,7 +36,7 @@
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link text-dark me-3" href="#hotel-view">Вид отеля</a></li>
                 <li class="nav-item"><a class="nav-link text-dark me-3" href="#guest-rooms">Гостевые номера</a></li>
-                <li class="nav-item"><a class="nav-link text-dark me-3" href="#suite">Сьюта</a></li>
+                <li class="nav-item"><a class="nav-link text-dark me-3" href="#suite">Люксы и улучшенные номера</a></li>
                 <li class="nav-item"><a class="nav-link text-dark me-3" href="#presidential-suite">Президентский люкс</a></li>
                 <li class="nav-item"><a class="nav-link text-dark me-3" href="#fitness">Рекреации и фитнес</a></li>
                 <li class="nav-item"><a class="nav-link text-dark me-3" href="#activities">Активности</a></li>
@@ -69,7 +69,7 @@
         <div class="col-md-4 mb-3"><img src="images/gallery/2.6.avif" class="img-fluid rounded-start"></div>
     </div>
     <div id="suite" class="row mb-5">
-        <h6 class="text-center">Сьюта</h6>
+        <h6 class="text-center">Люксы и улучшенные номера</h6>
         <hr>
         <div class="col-md-4 mb-3"><img src="images/gallery/3.1.WEBP" class="img-fluid rounded-start"></div>
         <div class="col-md-4 mb-3"><img src="images/gallery/3.3.WEBP" class="img-fluid rounded-start"></div>
